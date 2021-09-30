@@ -1,9 +1,9 @@
-<div align="center">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=br-adriel&show_icons=true&locale=pt-br&theme=react&hide_border=True&hide_rank=True" />
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br-adriel&layout=compact&langs_count=6&locale=pt-br&theme=react&hide_border=True" />
-</div>
-
 # Oi, meu nome é Adriel, tudo bom?
+
+<div align="center">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=br-adriel&show_icons=true&locale=pt-br&theme=react&hide_border=True&hide_rank=True&bg_color=0D1117&disable_animations=True" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br-adriel&layout=compact&langs_count=6&locale=pt-br&theme=react&hide_border=True&bg_color=0D1117" />
+</div>
 
 Eu tenho 19 anos e atualmente curso Sistemas de Informação na UFRN, onde também atuo como voluntário em um projeto desenvolvido em Django.
 

@@ -1,6 +1,6 @@
-<div align="center" style="display: inline_block">
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=br-adriel&show_icons=true&locale=pt-br&theme=react&hide_border=True&hide_rank=True" />
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br-adriel&layout=compact&langs_count=6&locale=pt-br&theme=react&hide_border=True" />
+<div align="center">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=br-adriel&show_icons=true&locale=pt-br&theme=react&hide_border=True&hide_rank=True" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br-adriel&layout=compact&langs_count=6&locale=pt-br&theme=react&hide_border=True" />
 </div>
 
 # Oi, meu nome é Adriel, tudo bom?

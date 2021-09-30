@@ -14,7 +14,7 @@ Antes de entrar para a universidade eu cursei informática no IFRN, onde eu entr
 
 <div style="display: inline_block">
   
-  ### Tecnologias já usadas
+  ### Tecnologias que já usei
   
   <img align="center" title="HTML 5 - Bom domínio" alt="HTML 5 icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" title="CSS 3 - Domínio básico" alt="CSS 3 icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>

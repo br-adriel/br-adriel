@@ -6,7 +6,7 @@
 </div>
 <br>
 
-Eu tenho 19 anos e atualmente curso Sistemas de Informação na UFRN, onde também atuo como voluntário em um projeto desenvolvido em Django.
+Eu tenho 20 anos e atualmente curso Sistemas de Informação na UFRN, onde também atuo como voluntário em um projeto desenvolvido em Django.
 
 Antes de entrar para a universidade eu cursei informática no IFRN, onde eu entrei em contato com a programação e desenvolvi alguns softwares simples usando PHP, Django e Laravel, alguns você encontra aqui no meu perfil.
 

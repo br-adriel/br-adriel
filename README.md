@@ -20,7 +20,7 @@ Antes de entrar para a universidade eu cursei informática no IFRN, onde eu entr
   <img align="center" title="CSS 3 - Domínio básico" alt="CSS 3 icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" title="Javascript - Domínio básico" alt="Javascript icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" title="Python - Bom domínio" alt="Python icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="center" title="PHP - Bom domínio" alt="PHP icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
+  <img align="center" title="PHP - Domínio básico" alt="PHP icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
   <img align="center" title="Django - Domínio básico" alt="Django icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"/>
   <img align="center" title="Laravel - Domínio básico" alt="Laravel icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/>
   <img align="center" title="Bootstrap 4 e 5 - Domínio básico" alt="Bootstrap icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />

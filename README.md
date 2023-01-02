@@ -16,7 +16,7 @@ Você pode encontrar alguns dos meus projetos pessoais aqui e na minha [página 
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=br-adriel&langs_count=9&theme=react&hide_border=true&locale=pt-br" align="right"/>
+  <img src="https://github-readme-stats-br-adriel.vercel.app/api/top-langs/?username=br-adriel&langs_count=9&theme=react&hide_border=true&locale=pt-br" align="right"/>
 </a>
 
 ### Tecnologias que tenho um bom domínio

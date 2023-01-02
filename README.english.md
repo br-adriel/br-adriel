@@ -16,7 +16,7 @@ You can find some of my projects here and on [my webpage](https://br-adriel.gith
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=br-adriel&langs_count=9&theme=react&hide_border=true" align="right"/>
+  <img src="https://github-readme-stats-br-adriel.vercel.app/api/top-langs/?username=br-adriel&langs_count=9&theme=react&hide_border=true" align="right"/>
 </a>
 
 ### Technologies that I'm good at

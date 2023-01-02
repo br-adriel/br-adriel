@@ -9,7 +9,7 @@ Meu foco tem sido desenvolvimento web front-end, tenho praticado bastante com
 React e no futuro pretendo aprender Angular, mas também sei um pouco de frameworks
 backend como Django e Express.
 
-Você pode encontrar alguns dos meus projetos pessoais aqui e na minha [página de apresentação](https://portifolio-32f96.web.app/), sinta-se à vontade para bisbilhotar os repositórios.
+Você pode encontrar alguns dos meus projetos pessoais aqui e na minha [página de apresentação](https://br-adriel.github.io/site/), sinta-se à vontade para bisbilhotar os repositórios.
 
 <a href="https://www.linkedin.com/in/adriel-fsantos/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" title="Linkedin"/>
@@ -41,3 +41,7 @@ Você pode encontrar alguns dos meus projetos pessoais aqui e na minha [página 
   <img alt="C badge" title="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img alt="MySQL badge" title="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
+
+<br />
+
+[:us: English version](./README.english.md)

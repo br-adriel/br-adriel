@@ -42,4 +42,6 @@ You can find some of my projects here and on [my webpage](https://br-adriel.gith
   <img alt="MySQL badge" title="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
+<br />
+
 [:brazil: Portuguese version](./README.md)
